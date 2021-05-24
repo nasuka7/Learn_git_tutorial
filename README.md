@@ -1,0 +1,3 @@
+# Learn_git_tutorial
+はじめてのGitとGithub学習です。
+UdemyのGit：はじめてのGitとGitHubを参考に学習しました。
